@@ -1,0 +1,14 @@
+{
+  "name": "pagehash",
+  "version": "1.0.0",
+  "description": "Hash an HTML page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Ralphson",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

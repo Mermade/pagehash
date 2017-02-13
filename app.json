@@ -1,0 +1,7 @@
+{
+  "name": "pagehash",
+  "description": "Hash an HTML page",
+  "repository": "https://github.com/mermade/pagehash",
+  "logo": "http://mermade.github.io/arapaho/logo.jpg",
+  "keywords": ["html","hash","md5","sha1"]
+}
